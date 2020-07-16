@@ -1,0 +1,5 @@
+•	is a edge based technique.
+•	It uses the Stack data structure,
+•	You visit a new vertex and start exploring it.
+•	Example: you start with 1 and then visit 2 and do not any adjacent vertex of 1, instead you explore 2. So output 1,2,3 , when you visit 3 you explore it, as nothing is there you come back to 2 and visit 6, output 1,2,3,6 and this will go on.
+•	It’s a preorder tree traversal.
